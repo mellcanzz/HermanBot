@@ -4,7 +4,7 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Kt69lMVe90WLBkCFcoYIyA']
 global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
 global.owner = ['6285759662798', '62882008097970', '6283125926877']// 
-global.mods = [ '6283146208804' ,  '62882008097970' ,  '6283146208804' ] // Want some help?
+global.mods = [ '6285759662798' ,  '62882008097970' ,  '6283146208804' ] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
